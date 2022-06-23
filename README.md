@@ -1,6 +1,7 @@
 # image_catalog
 
-This project contains source code and supporting files for a serverless application that you can deploy with the SAM CLI. It includes the following files and folders.
+This project contains source code and supporting files for a serverless application that stores metadata about images uploaded on S3 in an table in DynamoDB.
+You can deploy the application with the SAM CLI. It includes the following files and folders.
 
 - imagecatalog - Code for the application's Lambda function and Project Dockerfile.
 - events - Invocation events that you can use to invoke the function.
